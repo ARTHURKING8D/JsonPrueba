@@ -1,0 +1,23 @@
+{
+  "UserInfo":[
+    {
+      "UserId": "0",
+      "firstname" : "Jonathan", 
+      "Surname" : "Bardwell",
+      "PlayerDesc" : "Desarrollador VR",
+      "MaxGold" : "523",
+      "Team" : "red",
+      "sale": true
+    },
+    
+    {
+      "UserId": "1",
+      "firstname" : "Arthur", 
+      "Surname" : "Chi",
+      "PlayerDesc" : "Desarrollador Unreal",
+      "MaxGold" : "23",
+      "Team" : "blue" 
+    }
+    
+    ]
+}
